@@ -1,0 +1,48 @@
+Uri: https://mavhub.xyz/
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\index.htm
+Content Type: text/html
+
+Uri: https://api.mavhub.xyz/
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\index.htm
+Content Type: text/html
+
+Uri: https://mavhub.xyz/assets/plugins/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\assets\plugins\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://mavhub.xyz/assets/css/styles.css
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://mavhub.xyz/favicon.png
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\favicon.png
+Content Type: image/png
+
+Uri: https://mavhub.xyz/maverick.gif
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\maverick.gif
+Content Type: image/gif
+
+Uri: https://mavhub.xyz/assets/fontawesome/js/all.js
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\assets\fontawesome\js\all.js
+Content Type: application/javascript
+
+Uri: https://mavhub.xyz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://mavhub.xyz/assets/plugins/jquery-3.4.1.min.js
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\assets\plugins\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://mavhub.xyz/assets/plugins/popper.min.js
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\assets\plugins\popper.min.js
+Content Type: application/javascript
+
+Uri: https://mavhub.xyz/assets/plugins/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://mavhub.xyz/assets/js/main.js
+File Name: C:\Users\maver\OneDrive\Desktop\Maverick\Mavericks Hub\mavhub.xyz\assets\js\main.js
+Content Type: application/javascript
+
